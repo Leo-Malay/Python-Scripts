@@ -1,5 +1,5 @@
 # This is the script for the purpose of sending same mail to number of people.
-
+# Developed By Malay
 # Importing the important modules.
 import smtplib
 
